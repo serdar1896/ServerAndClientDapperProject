@@ -1,0 +1,72 @@
+﻿<environment include="Development">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+    <link rel="stylesheet" href="~/lib/datatables/css/jquery.dataTables.css" />
+    <link rel="stylesheet" href="~/lib/limonte-sweetalert2/sweetalert2.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap4.5/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/alertify.js/alertify.bootstrap.min.css" />
+
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap4.5/dist/js//bootstrap.min.js"></script>
+    <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/limonte-sweetalert2/sweetalert2.min.js"></script>
+    <script src="~/lib/jquery-loading-overlay/loadingoverlay.min.js"></script>
+    <script src="~/lib/alertify.js/alertify.min.js"></script>
+    <script src="~/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="~/lib/moment.js/moment.min.js"></script>
+
+</environment>
+<environment exclude="Development">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+    <link rel="stylesheet" href="~/lib/datatables/css/jquery.dataTables.css" />
+    <link rel="stylesheet" href="~/lib/limonte-sweetalert2/sweetalert2.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap4.5/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/alertify.js/alertify.bootstrap.min.css" />
+
+
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap4.5/dist/js//bootstrap.min.js"></script>
+    <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/limonte-sweetalert2/sweetalert2.min.js"></script>
+    <script src="~/lib/jquery-loading-overlay/loadingoverlay.min.js"></script>
+    <script src="~/lib/alertify.js/alertify.min.js"></script>
+    <script src="~/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="~/lib/moment.js/moment.min.js"></script>
+
+</environment>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CoreProjectClient.Web</title>
+</head>
+
+<body>
+
+    @await Html.PartialAsync("_Header")
+
+    <div class="container" style="margin-top: 4.4em" >
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <footer class="container">
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2017-2018 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+    </footer>
+
+
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HER/6R9EGMa0ai1TwWHDsMLVcjAk75xo52Vp5zDkXIhdK6FL43O/450xZooSemCCDkGCBbFX0sjQ7EFKbvlhLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serdar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

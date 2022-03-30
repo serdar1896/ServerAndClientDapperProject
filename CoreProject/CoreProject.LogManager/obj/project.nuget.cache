@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYTmons7clxdJjIdmS3eL1q7S0CYgzWk6Wf9xTCRnGVba43aTiy6Tpe3T6oKQVEiO4LzNcJIbiCqRE+3UHEDWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serdar.kaya\\source\\repos\\CoreProject\\CoreProject.LogManager\\CoreProject.LogManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serdar.kaya\\.nuget\\packages\\nlog\\4.7.5\\nlog.4.7.5.nupkg.sha512",
+    "C:\\Users\\serdar.kaya\\.nuget\\packages\\nlog.config\\4.7.5\\nlog.config.4.7.5.nupkg.sha512",
+    "C:\\Users\\serdar.kaya\\.nuget\\packages\\nlog.schema\\4.7.5\\nlog.schema.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.API\\CoreProject.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.API\\CoreProject.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.API\\CoreProject.API.csproj",
+        "projectName": "CoreProject.API",
+        "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.API\\CoreProject.API.csproj",
+        "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\CoreProject.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\CoreProject.BusinessLayer.csproj"
+              },
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj"
+              },
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\CoreProject.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\CoreProject.BusinessLayer.csproj",
+        "projectName": "CoreProject.BusinessLayer",
+        "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\CoreProject.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj"
+              },
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+        "projectName": "CoreProject.DataLayer",
+        "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\CoreProject.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj",
+        "projectName": "CoreProject.Entities",
+        "projectPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\CoreProject.Entities.csproj",
+        "packagesPath": "C:\\Users\\Serdar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serdar\\Desktop\\SERDAR\\Projeler\\Projeler\\EcommerceAPIWithDapper-main\\CoreProject\\CoreProject.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

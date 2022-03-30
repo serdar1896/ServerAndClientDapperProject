@@ -1,0 +1,191 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "limonte-sweetalert2@10.8.1",
+      "destination": "wwwroot/lib/limonte-sweetalert2/",
+      "files": [
+        "sweetalert2.min.js",
+        "sweetalert2.min.css"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/lib/jquery/",
+      "files": [
+        "AUTHORS.txt",
+        "bower.json",
+        "LICENSE.txt",
+        "package.json",
+        "README.md",
+        "dist/jquery.js",
+        "dist/jquery.min.js",
+        "dist/jquery.min.map",
+        "dist/jquery.slim.js",
+        "dist/jquery.slim.min.js",
+        "dist/jquery.slim.min.map",
+        "external/sizzle/LICENSE.txt",
+        "external/sizzle/dist/sizzle.js",
+        "external/sizzle/dist/sizzle.min.js",
+        "external/sizzle/dist/sizzle.min.map",
+        "src/ajax.js",
+        "src/attributes.js",
+        "src/callbacks.js",
+        "src/core.js",
+        "src/css.js",
+        "src/data.js",
+        "src/deferred.js",
+        "src/deprecated.js",
+        "src/dimensions.js",
+        "src/effects.js",
+        "src/event.js",
+        "src/jquery.js",
+        "src/manipulation.js",
+        "src/offset.js",
+        "src/queue.js",
+        "src/selector-native.js",
+        "src/selector-sizzle.js",
+        "src/selector.js",
+        "src/serialize.js",
+        "src/traversing.js",
+        "src/wrap.js",
+        "src/ajax/jsonp.js",
+        "src/ajax/load.js",
+        "src/ajax/script.js",
+        "src/ajax/xhr.js",
+        "src/ajax/var/location.js",
+        "src/ajax/var/nonce.js",
+        "src/ajax/var/rquery.js",
+        "src/attributes/attr.js",
+        "src/attributes/classes.js",
+        "src/attributes/prop.js",
+        "src/attributes/support.js",
+        "src/attributes/val.js",
+        "src/core/access.js",
+        "src/core/camelCase.js",
+        "src/core/DOMEval.js",
+        "src/core/init.js",
+        "src/core/isAttached.js",
+        "src/core/nodeName.js",
+        "src/core/parseHTML.js",
+        "src/core/parseXML.js",
+        "src/core/ready-no-deferred.js",
+        "src/core/ready.js",
+        "src/core/readyException.js",
+        "src/core/stripAndCollapse.js",
+        "src/core/support.js",
+        "src/core/toType.js",
+        "src/core/var/rsingleTag.js",
+        "src/css/addGetHookIf.js",
+        "src/css/adjustCSS.js",
+        "src/css/curCSS.js",
+        "src/css/finalPropName.js",
+        "src/css/hiddenVisibleSelectors.js",
+        "src/css/showHide.js",
+        "src/css/support.js",
+        "src/css/var/cssExpand.js",
+        "src/css/var/getStyles.js",
+        "src/css/var/isHiddenWithinTree.js",
+        "src/css/var/rboxStyle.js",
+        "src/css/var/rnumnonpx.js",
+        "src/css/var/swap.js",
+        "src/data/Data.js",
+        "src/data/var/acceptData.js",
+        "src/data/var/dataPriv.js",
+        "src/data/var/dataUser.js",
+        "src/deferred/exceptionHook.js",
+        "src/deprecated/ajax-event-alias.js",
+        "src/deprecated/event.js",
+        "src/effects/animatedSelector.js",
+        "src/effects/Tween.js",
+        "src/event/focusin.js",
+        "src/event/support.js",
+        "src/event/trigger.js",
+        "src/exports/amd.js",
+        "src/exports/global.js",
+        "src/manipulation/buildFragment.js",
+        "src/manipulation/getAll.js",
+        "src/manipulation/setGlobalEval.js",
+        "src/manipulation/support.js",
+        "src/manipulation/wrapMap.js",
+        "src/manipulation/_evalUrl.js",
+        "src/manipulation/var/rscriptType.js",
+        "src/manipulation/var/rtagName.js",
+        "src/queue/delay.js",
+        "src/traversing/findFilter.js",
+        "src/traversing/var/dir.js",
+        "src/traversing/var/rneedsContext.js",
+        "src/traversing/var/siblings.js",
+        "src/var/arr.js",
+        "src/var/class2type.js",
+        "src/var/document.js",
+        "src/var/documentElement.js",
+        "src/var/flat.js",
+        "src/var/fnToString.js",
+        "src/var/getProto.js",
+        "src/var/hasOwn.js",
+        "src/var/indexOf.js",
+        "src/var/isFunction.js",
+        "src/var/isWindow.js",
+        "src/var/ObjectFunctionString.js",
+        "src/var/pnum.js",
+        "src/var/push.js",
+        "src/var/rcheckableType.js",
+        "src/var/rcssNum.js",
+        "src/var/rnothtmlwhite.js",
+        "src/var/slice.js",
+        "src/var/support.js",
+        "src/var/toString.js"
+      ]
+    },
+    {
+      "library": "datatables@1.10.18",
+      "destination": "wwwroot/lib/datatables/"
+    },
+    {
+      "library": "jquery-loading-overlay@2.1.7",
+      "destination": "wwwroot/lib/jquery-loading-overlay/",
+      "files": [
+        "loadingoverlay.min.js"
+      ]
+    },
+    {
+      "library": "font-awesome@5.15.1",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "alertify.js@0.3.11",
+      "destination": "wwwroot/lib/alertify.js/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "jquery-lazyload@1.9.7",
+      "destination": "wwwroot/lib/jquery-lazyload/",
+      "files": [
+        "jquery.lazyload.js",
+        "jquery.scrollstop.js"
+      ]
+    },
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@4.5.3",
+      "destination": "wwwroot/lib/bootstrap4.5/"
+    },
+    {
+      "library": "moment.js@2.29.1",
+      "destination": "wwwroot/lib/moment.js/",
+      "files": [
+        "moment.min.js"
+      ]
+    },
+    {
+      "library": "moment.js@2.29.1",
+      "destination": "wwwroot/lib/moment.js/",
+      "files": [
+        "moment.min.js.map"
+      ]
+    }
+  ]
+}

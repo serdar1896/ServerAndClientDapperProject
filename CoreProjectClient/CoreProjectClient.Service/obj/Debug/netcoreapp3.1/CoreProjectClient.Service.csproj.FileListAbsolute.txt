@@ -1,0 +1,12 @@
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\bin\Debug\netcoreapp3.1\CoreProjectClient.Service.deps.json
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\bin\Debug\netcoreapp3.1\CoreProjectClient.Service.dll
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\bin\Debug\netcoreapp3.1\CoreProjectClient.Service.pdb
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\bin\Debug\netcoreapp3.1\CoreProjectClient.Data.dll
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\bin\Debug\netcoreapp3.1\CoreProjectClient.Data.pdb
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.csprojAssemblyReference.cache
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.csproj.CoreCompileInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.AssemblyInfoInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.AssemblyInfo.cs
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.csproj.CopyComplete
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.dll
+C:\Users\serdar.kaya\source\repos\CoreProjectClient\CoreProjectClient.Service\obj\Debug\netcoreapp3.1\CoreProjectClient.Service.pdb

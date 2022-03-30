@@ -1,0 +1,9 @@
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\bin\Debug\netcoreapp3.1\CoreProject.LogManager.deps.json
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\bin\Debug\netcoreapp3.1\CoreProject.LogManager.dll
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\bin\Debug\netcoreapp3.1\CoreProject.LogManager.pdb
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\obj\Debug\netcoreapp3.1\CoreProject.LogManager.csproj.CoreCompileInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\obj\Debug\netcoreapp3.1\CoreProject.LogManager.AssemblyInfoInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\obj\Debug\netcoreapp3.1\CoreProject.LogManager.AssemblyInfo.cs
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\obj\Debug\netcoreapp3.1\CoreProject.LogManager.dll
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.LogManager\obj\Debug\netcoreapp3.1\CoreProject.LogManager.pdb

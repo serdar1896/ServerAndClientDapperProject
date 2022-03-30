@@ -1,0 +1,6 @@
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.csprojAssemblyReference.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.csproj.CoreCompileInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.AssemblyInfoInputs.cache
+C:\Users\serdar.kaya\source\repos\CoreProject\CoreProject.API\obj\Release\netcoreapp3.1\CoreProject.API.AssemblyInfo.cs
